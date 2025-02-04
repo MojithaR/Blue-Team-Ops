@@ -1,5 +1,3 @@
-### **📌 ATTACK_Framework.md**
-```md
 # **🛡️ The ATT&CK Framework**
 
 ![MITRE ATT&CK](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF5YzhhNndtNWx6MWU3dnE3NTZ2ZG8wc25xaTNtdDZ2ajVsbGx5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif)
