@@ -104,6 +104,5 @@ A **government cybersecurity agency** shares **indicators of compromise (IOCs) o
 - 🔐 [MITRE CTID - Center for Threat-Informed Defense](https://ctid.mitre.org/projects/)  
 - 🛡️ [BAS Tools Review - Gartner](https://www.gartner.com/reviews/market/breach-and-attack-simulation-bas-tools)  
   
-```
 
 
