@@ -79,7 +79,7 @@ pie
     "Cloud Security" : 15
     "Endpoint Security" : 10
     "Data Protection" : 20
-    "Other" : 10
+    "Other-Process & people" : 10
 ```
 
 Data for this pie chart is based on various industry reports and surveys. For example, the **2023 Cybersecurity Report** from **Cybersecurity Ventures** suggests that a large portion of resources is dedicated to **network security**, with growing attention on **cloud security** and **endpoint security**.
