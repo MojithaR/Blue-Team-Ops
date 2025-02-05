@@ -15,7 +15,8 @@
 ## 🔎 Introduction
 Understanding the **threat landscape** is crucial for cybersecurity. This module explores **physical and digital threats**, common **attack vectors**, different types of **threat actors**, and **threat intelligence services** that help prevent cyberattacks.
 
-![Landscaping](https://media.giphy.com/media/b4lh3Y5n4NH2VEhAH1/giphy.gif)
+![Cyber Threats](https://media.giphy.com/media/KZXm0UZ2tLntSGAJ7G/giphy.gif?cid=790b7611b9d8xyt2r79zneqmkrhkpxpfuxo7svpwzufuzpzf&ep=v1_gifs_search&rid=giphy.gif&ct=g) ![Threat](https://media.giphy.com/media/OzqYdm4xrfWBF0UiEN/giphy.gif?cid=790b7611hwi3b02d75yau9yw63zs977elwpfttoe7yd72m5r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ---
 
 ## 🌍 Threat Landscape Overview
@@ -58,7 +59,7 @@ Threat actors are individuals or groups responsible for cyberattacks. They vary 
 3. **DDoS Attacks** - Overloading servers 💥
 4. **Zero-Day Exploits** - Exploiting unknown vulnerabilities 🚨
 
-![Hacker](https://media.giphy.com/media/3ohs83M0w7H0pP2Vj2/giphy.gif)
+![Hacker](https://media.giphy.com/media/goKgmdgnBfbYhsZFy9/giphy.gif?cid=790b76112lvq30x440snwv905vx5h0ynrt5qwms6pfwqvp03&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 📊 Cyber Threats Pie Chart (Data from [Verizon DBIR Report](https://www.verizon.com/business/resources/reports/dbir/))
 ```mermaid
@@ -105,7 +106,7 @@ graph LR;
 
 ### 💡 MITRE ATT&CK vs Cyber Kill Chain
 | Feature | MITRE ATT&CK | Cyber Kill Chain |
-|---------|--------------|----------------|
+|---------|--------------|-----------------|
 | **Focus** | TTPs (Techniques, Tactics, Procedures) | Attack stages |
 | **Details** | More in-depth 📚 | Simpler 📑 |
 | **Use Case** | Advanced Threat Detection | Basic Attack Analysis |
