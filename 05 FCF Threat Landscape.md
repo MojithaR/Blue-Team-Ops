@@ -15,8 +15,7 @@
 ## 🔎 Introduction
 Understanding the **threat landscape** is crucial for cybersecurity. This module explores **physical and digital threats**, common **attack vectors**, different types of **threat actors**, and **threat intelligence services** that help prevent cyberattacks.
 
-![Cyber Threats](https://media.giphy.com/media/b4lh3Y5n4NH2VEhAH1/giphy.gif?cid=790b7611b9d8xyt2r79zneqmkrhkpxpfuxo7svpwzufuzpzf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+![Landscaping](https://media.giphy.com/media/b4lh3Y5n4NH2VEhAH1/giphy.gif)
 ---
 
 ## 🌍 Threat Landscape Overview
