@@ -1,6 +1,6 @@
-# 🔍 Google Chronicle Training Summary – Feb 13, 2025
+# 🔍 Google Chronicle Training Summary – Feb 13, 2025-Mojii
 
-Hey everyone! This document is my quick-reference guide for everything we covered in our Google Chronicle training session. I’ve split it into two main sections: **Processos** (the step-by-step processes we need to do) and **Key Points** (the important bits we have to remember). I’ve also added some cool visuals, tables, flow charts, and GIFs to make it fun and easy to follow. Enjoy!
+This document is my quick-reference guide for everything we covered in our Google Chronicle training session. I’ve split it into two main sections: **Processos** (the step-by-step processes we need to do) and **Key Points** (the important bits we have to remember). I’ve also added some cool visuals, tables, flow charts, and GIFs to make it fun and easy to follow. Enjoy!
 
 ---
 
@@ -155,4 +155,3 @@ Logs in Chronicle are divided into:
 
 If u want to learn u are welcome, but copying or posting this content is prohibited, Interlectual property belongs to Loard.Mojiii
 Let's Learn! 🎉
-```
