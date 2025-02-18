@@ -154,10 +154,9 @@ Use **Dashboards** and **Reports** to visualize incidents, track playbook execut
 
 ---
 
-## Conclusion 🎉
+## Final note 🎉
 
-This cheat sheet provides you with the core concepts of **Siemplify** and incident handling methodologies that you will use regularly in your SOC Analyst role. Keep this as a reference for quick tips and reminders, and make sure to continue practicing your skills as you encounter real-life scenarios! 🌟
-
+This cheat sheet is really good, and this provides  core concepts of **Siemplify** and incident handling methodologies that I will or can use regularly in your SOC Analyst role. Become Like water My friend : ) | I am batman.
 ![SOC Analyst GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG40aWs0MWdpdHQ3eGFmMWU0ODlhcmI0ZnA3bG5wa3ozcXJpcmp1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cq6mWh9z1KvMA4qRvB/giphy.gif)
 
 > **Something I remember today morning while im bathing**: What is i create some case folders- most common and reported case folders for a specific client, and make inside contents before then i can save time and become faster 🚀
